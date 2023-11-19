@@ -1,0 +1,8 @@
+.ticket {
+    background-color: #9a7676;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* background-color:aqua ; */
+}

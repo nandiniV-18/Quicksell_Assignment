@@ -1,0 +1,29 @@
+.cardmargin{
+    margin: 10px;
+}
+.card{
+    background-color: rgb(224, 236, 238);
+
+   /* height: auto; */
+
+    /* border-color: black; */
+    width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* text-align: center; */
+}
+.box{
+
+  /* width: 250px; */
+  margin-top: 10px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 2px 2px 0 rgba(0, 0, 0, 0.1);border-color: black;
+
+  text-align: center;
+
+}
+.circle{width: 20px;
+height: 20px;
+/* background-color: black; */
+border: 20px;
+border-radius: 50%;
+z-index: -1;
+}

@@ -1,0 +1,12 @@
+.boardColumn {
+    flex: 1;
+    /* margin: 10px;
+    padding: 10px; */
+    /* border: 1px solid #ccc; */
+    /* border-radius: 4px; */
+    background-color: whitesmoke;
+
+}
+h3,span,p{
+    display: inline;
+}
